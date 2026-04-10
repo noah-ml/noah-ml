@@ -2,7 +2,7 @@
 
 **MSc Biomedical Engineering @ TU Berlin** | AI/ML Engineer
 
-I build deep learning pipelines for medical imaging — currently researching how image quality degradation affects neural network robustness in mammography.
+I build deep learning pipelines for medical imaging. Currently researching how image quality degradation affects neural network robustness in mammography.
 
 ## 🔬 What I'm working on
 - **Master's Thesis**: Quantitative analysis of image quality degradation effects on CNN/Transformer robustness in mammography (VinDr-Mammo dataset)
@@ -15,4 +15,4 @@ I build deep learning pipelines for medical imaging — currently researching ho
 **Domain**: Medical Imaging · DICOM · Computer Vision · Regulatory (IEC 62304)
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-lorch)
