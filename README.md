@@ -12,7 +12,7 @@ I build deep learning pipelines for medical imaging. Currently researching how i
 **ML/DL**: PyTorch · TensorFlow · scikit-learn · OpenCV · HuggingFace  
 **Languages**: Python · SQL · C++  
 **Tools**: Docker · Git · Linux · LaTeX  
-**Domain**: Medical Imaging · DICOM · Computer Vision · Regulatory (IEC 62304)
+**Domain**: Medical Imaging · DICOM · Computer Vision · Regulatory 
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-lorch)
