@@ -5,7 +5,7 @@
 I build deep learning pipelines for medical imaging. Currently researching how image quality degradation affects neural network robustness in mammography.
 
 ## 🔬 What I'm working on
-- **Master thesis**: Quantitative analysis of image quality degradation effects on CNN/Transformer robustness in mammography (VinDr-Mammo dataset)
+- **Master's Thesis**: Quantitative analysis of image quality degradation effects on CNN/Transformer robustness in mammography (VinDr-Mammo dataset)
 - **Robotics**: 6-DOF robotic arm with ROS2 and YOLO-based object detection
 
 ## 🛠 Tech Stack
