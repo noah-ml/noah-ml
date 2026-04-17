@@ -1,6 +1,6 @@
 # Hi, I'm Noah 👋
 
-**MSc Biomedical Engineering @ TU Berlin** | AI/ML Engineer
+**MSc Biomedical Engineering @ TU Berlin** | ML Scientist
 
 I build deep learning pipelines for medical imaging. Currently researching how image quality degradation affects neural network robustness in mammography.
 
@@ -10,9 +10,9 @@ I build deep learning pipelines for medical imaging. Currently researching how i
 
 ## 🛠 Tech Stack
 **ML/DL**: PyTorch · TensorFlow · scikit-learn · OpenCV · HuggingFace  
-**Languages**: Python · SQL · C++  
-**Tools**: Docker · Git · Linux · LaTeX  
-**Domain**: Medical Imaging · DICOM · Computer Vision · Regulatory 
+**Languages**: Python · SQL 
+**Tools**: Docker · Git · Linux · LaTeX · Weights & Biases · Hydra · HuggingFace
+**Domain**: Medical Imaging · DICOM · Computer Vision 
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-lorch)
