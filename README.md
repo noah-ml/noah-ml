@@ -11,7 +11,7 @@ I build deep learning pipelines for medical imaging. Currently researching how i
 ## 🛠 Tech Stack
 **ML/DL**: PyTorch · TensorFlow · scikit-learn · OpenCV · HuggingFace  
 **Languages**: Python · SQL 
-**Tools**: Docker · Git · Linux · LaTeX · Weights & Biases · Hydra · HuggingFace
+**Tools**: Docker · Git · Linux · LaTeX · Weights & Biases · Hydra
 **Domain**: Medical Imaging · DICOM · Computer Vision 
 
 ## 📫 Connect
