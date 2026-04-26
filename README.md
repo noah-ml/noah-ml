@@ -1,6 +1,6 @@
 # Hi, I'm Noah 👋
 
-**MSc Biomedical Engineering @ TU Berlin** | ML Scientist
+**MSc Biomedical Engineering @ TU Berlin** | AI/ML Engineer | Computer Vision 
 
 I build deep learning pipelines for medical imaging. Currently researching how image quality degradation affects neural network robustness in mammography.
 
